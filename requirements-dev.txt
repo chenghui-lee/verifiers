@@ -1,0 +1,13 @@
+# Development dependencies
+build>=1.2.2.post1
+twine>=6.1.0
+
+# Testing dependencies
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.0.0
+
+# Documentation dependencies
+sphinx
+myst-parser
+sphinx-rtd-theme 
